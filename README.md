@@ -1,6 +1,6 @@
 Hi, my name is Erica Jacquemain 👋
 
-I'm a SR Graphic Designer and JR Web Developer from Argentina, based in Buenos Aires. I love everything that has to do with Graphic design, Motion graphics, UI/UX design, and I recently found a new passion: Web development.
+I'm a SR Graphic Designer and JR Web Developer from Argentina, based in Buenos Aires. I love everything that has to do with Graphic design, Motion graphics, UI/UX design, and I recently found a new passion: Web development.
 
 My 20 years professional experience working on studios, marketing and BTL agencies, and print-house makes me a highly meticulous sense of aesthetic, along with an special close attention to every detail. 
 
