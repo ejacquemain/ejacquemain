@@ -13,7 +13,7 @@ I love working with people, specially if they have the same passion I have for w
 -     Behance: https://www.behance.net/EricaJacquemain
 -     or eMail: erica.jacquemain@gmail.com
 
-Please visit this project I´m currently working on: https://github.com/ejacquemain/en_nunez/tree/main
+Please visit "En Nuñez", the gastronomic guide project I´m currently working on: https://ejacquemain.github.io/en_nunez/index.html
 
 <!---
 ejacquemain/ejacquemain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
